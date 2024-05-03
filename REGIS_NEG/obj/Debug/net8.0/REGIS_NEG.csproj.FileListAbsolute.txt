@@ -1,0 +1,17 @@
+C:\Users\Equipo 7\source\repos\REGIS_NEG\bin\Debug\net8.0\REGIS_NEG.deps.json
+C:\Users\Equipo 7\source\repos\REGIS_NEG\bin\Debug\net8.0\REGIS_NEG.runtimeconfig.json
+C:\Users\Equipo 7\source\repos\REGIS_NEG\bin\Debug\net8.0\REGIS_NEG.dll
+C:\Users\Equipo 7\source\repos\REGIS_NEG\bin\Debug\net8.0\REGIS_NEG.pdb
+C:\Users\Equipo 7\source\repos\REGIS_NEG\bin\Debug\net8.0\REGIS_DATOS.dll
+C:\Users\Equipo 7\source\repos\REGIS_NEG\bin\Debug\net8.0\REGIS_DATOS.pdb
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.csproj.AssemblyReference.cache
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.AssemblyInfoInputs.cache
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.AssemblyInfo.cs
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.csproj.Up2Date
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.dll
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\refint\REGIS_NEG.dll
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.pdb
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\REGIS_NEG.genruntimeconfig.cache
+C:\Users\Equipo 7\source\repos\REGIS_NEG\obj\Debug\net8.0\ref\REGIS_NEG.dll

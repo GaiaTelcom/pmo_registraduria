@@ -1,0 +1,14 @@
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\bin\Debug\net8.0\REGIS_DATOS.deps.json
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\bin\Debug\net8.0\REGIS_DATOS.runtimeconfig.json
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\bin\Debug\net8.0\REGIS_DATOS.dll
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\bin\Debug\net8.0\REGIS_DATOS.pdb
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.csproj.AssemblyReference.cache
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.AssemblyInfoInputs.cache
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.AssemblyInfo.cs
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.dll
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\refint\REGIS_DATOS.dll
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.pdb
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\REGIS_DATOS.genruntimeconfig.cache
+C:\Users\Equipo 7\source\repos\REGIS_DATOS\obj\Debug\net8.0\ref\REGIS_DATOS.dll

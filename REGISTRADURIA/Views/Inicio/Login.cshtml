@@ -1,0 +1,56 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inicio de sesión</title>
+    <link rel="stylesheet" href="~/css/Style_Login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="curved_shape"></div>
+        <div class="curved_shape2"></div>
+        <div class="form_box login">
+            <h2 class="animation" style="--D:0; --S:21;"> Login </h2>
+            <form action="@Url.Action("Login","Inicio")" method="post">
+                <div class="input_box animation" style="--D:1; --S:22;">
+                    <input type="email" required spellcheck="false" name="correo">
+                    <label for="">Correo</label>
+                    <i class="fa-solid fa-user"></i>
+                </div>
+                <div class="input_box animation" style="--D:2; --S:23;">
+                    <input type="password" required name="clave">
+                    <label for="">Contraseña</label>
+                    <i class="fa-solid fa-lock"></i>
+                </div>
+
+                @if (ViewBag.Mensaje != null)
+                {
+                        <div class="alert alert-danger">
+                        @ViewBag.Mensaje
+                        </div>
+                }
+
+                <div class="input_box animation" style="--D:3;--S:24;">
+                    <button class="btn" type="submit">Login</button>
+                </div>
+                <div class="reg_link animation" style="--D:4;--S:25;">
+                    <p>
+                        No tienes una cuenta? <a href="@Url.Action("Registrar","Inicio")" class="signuplink">Registrate!</a>
+                    </p>
+                </div>
+                <div class="reg_link animation" style="--D:4;--S:25;">
+                    <p>
+                        Has olvidado tu contraseña? <a href="@Url.Action("Restablecer","Inicio")" class="signuplink">Restablecer!</a>
+                    </p>
+                </div>
+            </form>
+        </div>
+    </div>
+    <link rel="stylesheet" href="~/js/script.js">
+</body>
+</html>
